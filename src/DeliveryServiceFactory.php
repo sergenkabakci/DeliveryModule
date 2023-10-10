@@ -1,6 +1,6 @@
 <?php
 
-namespace sergenkabakci\DeliveryModule;
+namespace Sergenkabakci\DeliveryModule;
 
 class DeliveryServiceFactory {
     public static function createDeliveryService($service) {

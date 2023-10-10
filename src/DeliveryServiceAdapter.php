@@ -1,6 +1,6 @@
 <?php
 
-namespace sergenkabakci\DeliveryModule;
+namespace Sergenkabakci\DeliveryModule;
 
 class DeliveryServiceAdapter {
     public static function adaptInputData($service, $sourceKladr, $targetKladr, $weight) {

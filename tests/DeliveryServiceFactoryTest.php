@@ -1,9 +1,9 @@
 <?php
 
-namespace sergenkabakci\DeliveryModule\Tests;
+namespace Sergenkabakci\DeliveryModule\Tests;
 
 use PHPUnit\Framework\TestCase;
-use sergenkabakci\DeliveryModule\DeliveryServiceFactory;
+use Sergenkabakci\DeliveryModule\DeliveryServiceFactory;
 
 class DeliveryServiceFactoryTest extends TestCase {
     public function testCreateDeliveryService() {

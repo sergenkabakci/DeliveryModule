@@ -1,6 +1,6 @@
 <?php
 
-namespace sergenkabakci\DeliveryModule;
+namespace Sergenkabakci\DeliveryModule;
 
 class SlowDelivery implements DeliveryService {
     private $base_url = "https://slowdelivery.com/api/";

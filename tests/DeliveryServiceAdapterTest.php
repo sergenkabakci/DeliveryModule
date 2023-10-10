@@ -1,9 +1,9 @@
 <?php
 
-namespace sergenkabakci\DeliveryModule\Tests;
+namespace Sergenkabakci\DeliveryModule\Tests;
 
 use PHPUnit\Framework\TestCase;
-use sergenkabakci\DeliveryModule\DeliveryServiceAdapter;
+use Sergenkabakci\DeliveryModule\DeliveryServiceAdapter;
 
 class DeliveryServiceAdapterTest extends TestCase {
     public function testAdaptInputData() {
