@@ -1,0 +1,27 @@
+{
+    "name": "sergenkabakci/delivery-module",
+    "description": "A module for calculating the delivery cost and delivery date for different delivery services",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergen",
+            "email": "sergen.kabakci@gmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=7.0"
+	},
+    "autoload": {
+        "psr-4": {
+            "DeliveryModule\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DeliveryModule\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
