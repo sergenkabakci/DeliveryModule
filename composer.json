@@ -5,12 +5,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Sergen",
+            "name": "Sergen Kabakçı",
             "email": "sergen.kabakci@gmail.com"
         }
     ],
     "require": {
 		"php": ">=7.0.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^9",
 	},
     "autoload": {
         "psr-4": {
