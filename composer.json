@@ -10,16 +10,16 @@
         }
     ],
     "require": {
-		"php": ">=7.0"
+		"php": ">=7.0.0"
 	},
     "autoload": {
         "psr-4": {
-            "DeliveryModule\\": "src/"
+            "Sergenkabakci\\DeliveryModule\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DeliveryModule\\Tests\\": "tests/"
+            "Sergenkabakci\\DeliveryModule\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
