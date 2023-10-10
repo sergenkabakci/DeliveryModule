@@ -1,6 +1,6 @@
 <?php
 
-namespace DeliveryModule;
+namespace sergenkabakci\DeliveryModule;
 
 class FastDelivery implements DeliveryService {
     private $base_url = "https://fastdelivery.com/api/";

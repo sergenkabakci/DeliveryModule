@@ -14,12 +14,12 @@
 	},
     "autoload": {
         "psr-4": {
-            "Sergenkabakci\\DeliveryModule\\": "src/"
+            "sergenkabakci\\DeliveryModule\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Sergenkabakci\\DeliveryModule\\Tests\\": "tests/"
+            "sergenkabakci\\DeliveryModule\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",

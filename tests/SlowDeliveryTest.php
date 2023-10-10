@@ -1,9 +1,9 @@
 <?php
 
-namespace DeliveryModule\Tests;
+namespace sergenkabakci\DeliveryModule\Tests;
 
 use PHPUnit\Framework\TestCase;
-use DeliveryModule\SlowDelivery;
+use sergenkabakci\DeliveryModule\SlowDelivery;
 
 class SlowDeliveryTest extends TestCase {
     public function testCalculateCostAndDate() {

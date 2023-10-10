@@ -1,9 +1,9 @@
 <?php
 
-namespace DeliveryModule\Tests;
+namespace sergenkabakci\DeliveryModule\Tests;
 
 use PHPUnit\Framework\TestCase;
-use DeliveryModule\FastDelivery;
+use sergenkabakci\DeliveryModule\FastDelivery;
 
 class FastDeliveryTest extends TestCase {
     public function testCalculateCostAndDate() {
