@@ -1,9 +1,9 @@
 <?php
 
-namespace Sergenkabakci\DeliveryModule\Tests;
+namespace DeliveryModule\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Sergenkabakci\DeliveryModule\DeliveryService;
+use DeliveryModule\DeliveryService;
 
 class DeliveryServiceTest extends TestCase {
     public function testCalculateCostAndDate() {

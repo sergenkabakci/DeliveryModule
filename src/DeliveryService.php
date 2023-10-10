@@ -1,6 +1,6 @@
 <?php
 
-namespace Sergenkabakci\DeliveryModule;
+namespace DeliveryModule;
 
 interface DeliveryService {
     public function calculateCostAndDate($sourceKladr, $targetKladr, $weight);
